@@ -74,5 +74,5 @@ Further Reading
 Check out our `usage instructions`_ and `API documentation`_ for more details
 about how to use the API and this client.
 
-.. _`usage instructions`: https://medium.com/@mechanicalturk/instructions-for-calling-our-new-sentiment-analysis-api-21986c2cdff0
-.. _`API documentation`: https://medium.com/@mechanicalturk/mechanical-turk-sentiment-analysis-api-documentation-e0ab8279a70a
+.. _`usage instructions`: https://medium.com/@mechanicalturk/instructions-for-calling-a-preview-api-620f572bedc4
+.. _`API documentation`: https://medium.com/@mechanicalturk/new-preview-apis-common-questions-9ecc4fc674bb
